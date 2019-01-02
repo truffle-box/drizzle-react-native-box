@@ -4,7 +4,7 @@ This box will get you up and running with building a dapp on React Native (Andro
 
 ## Installation
 
-1. Install truffle and ganache-cli globally
+1. Install Truffle and Ganache CLI globally
 
     ```
     npm install -g truffle
