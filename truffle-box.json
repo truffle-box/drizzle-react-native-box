@@ -1,11 +1,12 @@
 {
-  "ignore": ["README.md"],
+  "ignore": ["README.md", "box-img-lg.png", "box-img-sm.png"],
   "commands": {
     "Compile contracts": "truffle compile",
     "Migrate contracts": "truffle migrate",
     "Test contracts": "truffle test",
     "Test dapp": "yarn test",
     "Android: Run dapp": "react-native run-android",
+    "iOS: Run dapp (simulator only)": "react-native run-ios",
     "Android: Reverse ganache ports": "adb reverse tcp:8545 tcp:8545"
   },
   "hooks": {
