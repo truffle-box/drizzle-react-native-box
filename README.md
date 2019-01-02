@@ -4,9 +4,18 @@ This box will get you up and running with running a dapp on React Native (Androi
 
 ## Installation
 
-```sh
-truffle unbox drizzle-react-native
-```
+1. Install truffle and ganache-cli globally
+
+    ```
+    npm install -g truffle
+    npm install -g ganache-cli
+    ```
+
+1. Download the box. This also takes care of installing the necessary dependencies.
+
+    ```sh
+    truffle unbox drizzle-react-native
+    ```
 
 ## Connecting your app to your Ganache testnet
 
