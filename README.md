@@ -17,6 +17,8 @@ This box will get you up and running with running a dapp on React Native (Androi
     truffle unbox drizzle-react-native
     ```
 
+1. Go through the [React Native tutorial](https://facebook.github.io/react-native/docs/getting-started). Make sure to select `Building Projects with Native Code` since we will be leveraging some native code.
+
 ## Connecting your app to your Ganache testnet
 
 When we're Working with React Native and mobile apps, accessing the Ganache server that's running on your machine takes a bit more work than when we are building web apps. The sections below detail how to connect to the Ganache testnet with your mobile device/emulator.
