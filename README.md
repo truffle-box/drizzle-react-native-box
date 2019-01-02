@@ -1,6 +1,6 @@
 # Drizzle React Native Box
 
-This box will get you up and running with running a dapp on React Native (Android and iOS).
+This box will get you up and running with building a dapp on React Native (Android and iOS).
 
 ## Installation
 
