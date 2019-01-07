@@ -1,9 +1,9 @@
-pragma solidity ^0.4.24;
+pragma solidity ^0.5.0;
 
 contract MyStringStore {
   string public myString = "Hello World";
 
-  function set(string x) public {
+  function set(string memory x) public {
     myString = x;
   }
 }
