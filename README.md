@@ -1,3 +1,5 @@
+##  **⚠️ This box is deprecated. It is likely some features in this box will not work as expected. ⚠️**
+
 # Drizzle React Native Box
 
 This box will get you up and running with building a dapp on React Native (Android and iOS).
